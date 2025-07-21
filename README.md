@@ -14,6 +14,7 @@ Atualmente, estou trabalhando nos bastidores para lançar projetos públicos que
 - Chatbots com foco em contexto, automações e interatividade
 - Atualmente, projetos de IA com Node.js e posteriormente (Python e ferramentas no-code/low-code como n8n)
 - Sites responsivos e experiências web imersivas
+- Games
 
 ---
 
